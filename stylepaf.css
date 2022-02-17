@@ -56,10 +56,18 @@ body {
     margin-top: 20px;
 }
 
-h3,
+h3 {
+    color: #CAAD8C;
+    padding: 10px 0 10px 0;
+    font-size: 40px;
+    font-weight: 700 !important;
+}
+
 h5 {
     color: #CAAD8C;
     padding: 10px 0 10px 0;
+    /* font-size: 40px;
+    font-weight: 700 !important; */
 }
 
 p {
@@ -175,8 +183,8 @@ h1,
 } */
 
 .vector {
-    width: 200px;
-    height: 100px;
+    width: 400px;
+    height: 200px;
 }
 
 @media screen and ( max-width:575px) {

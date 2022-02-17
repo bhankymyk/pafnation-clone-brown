@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Nunito', sans-serif;
+    background-image: url("assests/images/Sign\ Up\ 2.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 25px;
+}
+
+.forms {
+    border-radius: 10px;
+    background-color: #F6EDDD;
+}
+
+h1,
+p {
+    text-align: center;
+}
+
+.btns {
+    background-color: #CAAD8C;
+    color: #F6EDDD;
+    border-radius: 10px;
+}
+
+.btns:hover {
+    background-color: #623B1C;
+    color: #F6EDDD;
+}
+
+.signs {
+    float: right;
+    color: red;
+}
